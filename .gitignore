@@ -1,0 +1,25 @@
+# ────────────────────────────────
+# データ本体（CSV 等）
+data/
+
+# 学習済モデルや中間出力
+models/
+outputs/
+
+# Python 仮想環境（Anaconda / venv）
+ds-env/
+env/
+venv/
+
+# Jupyter Notebook のチェックポイント
+.ipynb_checkpoints/
+
+# VS Code 個人設定
+.vscode/
+
+# ログファイル
+*.log
+
+# OS 一時ファイル
+.DS_Store
+Thumbs.db
