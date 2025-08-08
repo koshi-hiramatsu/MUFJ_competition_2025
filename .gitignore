@@ -23,3 +23,8 @@ venv/
 # OS 一時ファイル
 .DS_Store
 Thumbs.db
+model-proposal_A/
+submission_*.csv
+*.ipynb_checkpoints/
+Untitled-*.ipynb
+03_data_understanding_clean.ipynb
