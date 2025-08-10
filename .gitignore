@@ -28,3 +28,5 @@ submission_*.csv
 *.ipynb_checkpoints/
 Untitled-*.ipynb
 03_data_understanding_clean.ipynb
+model-proposal_A_v2/*.csv
+model-proposal_A_v2/*.txt
